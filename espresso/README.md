@@ -1,6 +1,6 @@
 # Espresso
 
-![Espresso](https://github.com/hmk1337/coffee_datasets/blob/master/espresso/dataset/espresso1.jpg)
+![Espresso](https://github.com/hmk1337/coffee_datasets/blob/master/espresso/datasets/espresso1.jpg)
 
 ## Description
 
