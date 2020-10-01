@@ -1,6 +1,6 @@
 # Esspresso
 
-![Esspresso](https://raw.githubusercontent.com/aghussb/plant_can_be_food_collection_datasets/master/spinach/datasets/elderberry_5.jpg)
+![Esspresso](https://raw.githubusercontent.com/lepuzz03/coffee_datasets/master/sample/datasets/coffee_1.jpg)
 
 ## Description
 
