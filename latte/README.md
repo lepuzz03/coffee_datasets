@@ -1,6 +1,6 @@
 # Latte
 
-![Latte](https://github.com/hmk1337/coffee_datasets/blob/master/latte/latte1.jpg)
+![Latte](https://github.com/hmk1337/coffee_datasets/blob/master/latte/datasets/latte1.jpg)
 
 ## Description
 Caffe latte (or simply latte) (/ˈlɑːteɪ/ or /ˈlæteɪ/)[1][2] is a coffee drink made with espresso and steamed milk. The word comes from the Italian caffè e latte[3] [kafˌfɛ e lˈlatte], caffelatte [kaffeˈlatte] or caffellatte [kaffelˈlatte], which means "coffee & milk". The word is also sometimes spelled latté or lattè in English with different kinds of accent marks, which can be a hyperforeignism or a deliberate attempt to indicate that the word is not pronounced according to the rules of English orthography.
