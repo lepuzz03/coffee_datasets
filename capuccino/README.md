@@ -1,13 +1,13 @@
-# Latte
+# Capuccino
 
-![Latte](https://github.com/hmk1337/coffee_datasets/blob/master/latte/datasets/latte1.jpg)
+![Capuccino](https://github.com/hmk1337/coffee_datasets/blob/master/capuccino/datasets/capuccino_1.jpg)
 
 ## Description
-Caffe latte (or simply latte) (/ˈlɑːteɪ/ or /ˈlæteɪ/)[1][2] is a coffee drink made with espresso and steamed milk. The word comes from the Italian caffè e latte[3] [kafˌfɛ e lˈlatte], caffelatte [kaffeˈlatte] or caffellatte [kaffelˈlatte], which means "coffee & milk". The word is also sometimes spelled latté or lattè in English with different kinds of accent marks, which can be a hyperforeignism or a deliberate attempt to indicate that the word is not pronounced according to the rules of English orthography.
+A cappuccino (/ˌkæpʊˈtʃiːnoʊ/ (About this soundlisten); Italian pronunciation: [kapputˈtʃiːno]; Italian plural: cappuccini) is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam (microfoam).[1]
 
-In northern Europe and Scandinavia, the term café au lait has traditionally been used for the combination of espresso and milk. In France, café latte is mostly known from the original Italian name of the drink (caffè latte or caffelatte); a combination of espresso and steamed milk equivalent to a "latte" is in French called grand crème and in German Milchkaffee or (in Austria) Wiener Melange.
+Variations of the drink involve the use of cream instead of milk, using non-dairy milks, and flavoring with cinnamon or chocolate powder.[2][3] It is typically smaller in volume than a caffè latte, with a thicker layer of microfoam.[4]
 
-Variants include the chocolate-flavored mocha or replacing the coffee with another drink base such as masala chai (spiced Indian tea), mate, matcha, turmeric or rooibos; other types of milk, such as soy milk or almond milk, are also used.
+The name comes from the Capuchin friars, referring to the colour of their habits,[5] and in this context referring to the colour of the beverage when milk is added in small portion to dark, brewed coffee[6] (today mostly espresso). The physical appearance of a modern cappuccino with espresso créma and steamed milk is a result of a long evolution of the drink.
 
 ## Sources
-https://en.wikipedia.org/wiki/Latte
+https://en.wikipedia.org/wiki/Cappuccino
