@@ -16,4 +16,4 @@ Make README.md for a description of the Coffee you choose and don't forget to pr
 Format README.md like in folder sample there are pictures and descriptions.
 
 ## 3. Image Dataset
-Make folder **datasets** with the format name [name coffee]_1,[name coffee]_2,[name coffee]_3,etc and a min **10** images 
+Make folder **datasets** with the format name [name coffee]_1,[name coffee]_2,[name coffee]_3,etc and a min **3** images 
