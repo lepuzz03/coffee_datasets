@@ -1,10 +1,10 @@
-# Elderberry
+# V60
 
-![Elderberry](https://raw.githubusercontent.com/aghussb/plant_can_be_food_collection_datasets/master/spinach/datasets/elderberry_5.jpg)
+![V60](https://github.com/Lauraow/coffee_datasets/blob/master/V60/datasets/v60_1.jpg)
 
 ## Description
 
-Sambucus is a genus of flowering plants in the family Adoxaceae. The various species are commonly called elder or elderberry. The genus was formerly placed in the honeysuckle family, Caprifoliaceae, but was reclassified as Adoxaceae due to genetic and morphological comparisons to plants in the genus Adoxa.
+Brewed coffee is made by pouring hot water onto ground coffee beans, then allowing to brew. There are several methods for doing this, including using a filter, a percolator, and a French press. Terms used for the resulting coffee often reflect the method used, such as drip brewed coffee, filtered coffee, pour-over coffee, immersion brewed coffee, or simply coffee. Water seeps through the ground coffee, absorbing its constituent chemical compounds, and then passes through a filter. The used coffee grounds are retained in the filter, while the brewed coffee is collected in a vessel such as a carafe or pot.
 
 ## Sources
-[Wikipedia](https://en.wikipedia.org/wiki/Sambucus)
+[Wikipedia](https://en.wikipedia.org/wiki/Brewed_coffee)
