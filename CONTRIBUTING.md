@@ -1,4 +1,4 @@
-# Contributing to Datasets Plant
+# Contributing to Datasets Coffee
 
 🎉👍 First off, thanks for taking the time to contribute! 🎉👍
 
